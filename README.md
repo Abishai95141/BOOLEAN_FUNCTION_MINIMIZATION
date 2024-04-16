@@ -61,6 +61,7 @@ Developed by:ABISHAI K C RegisterNumber:212223240002
 
 
 **RTL realization**
+
 ![image](https://github.com/Abishai95141/BOOLEAN_FUNCTION_MINIMIZATION/assets/139335314/76486b4b-1d5d-46fa-b7aa-ac2e231da66a)
 
 
